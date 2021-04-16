@@ -1,4 +1,4 @@
-prefix,lat,lon,name,category
+﻿prefix,lat,lon,name,category
 aaf,29.650275,-82.34572,Academic Advising Center,admin
 adv,29.648792,-82.359303,Martin H. Levin Advocacy Center,academic
 aer,29.643272,-82.3483,Mec. Aerospace Engineering,academic
@@ -8,8 +8,6 @@ and,29.651573,-82.341939,Anderson Hall,academic
 ans,29.631292,-82.351768,Animal Science,academic
 ansc,29.631292,-82.351768,Animal Science Building C,unknown
 apl,29.646905,-82.343942,Aquatic Products Lab,academic
-apopka-win-lap,28.638361,-81.548856,UF Apopka,academic
-apopka,28.638361,-81.548856,UF Apopka,academic
 arch,29.647656,-82.341748,School of Architecture,academic
 aud,29.648887,-82.342909,University Auditorium,academic
 bar,29.643915,-82.344403,Bartram Hall,academic
@@ -56,13 +54,10 @@ csee,29.64821,-82.344387,CISE,academic
 csev,29.64821,-82.344387,CISE,academic
 csfl,29.633672,-82.361716,Crops And Soils Field Lab,academic
 cwp,29.648189,-82.348498,Lacy R. Chilled Water Plt. CWP2,unknown
-dairy-win-lap,29.763049,-82.414491,UF,unknown
-dairy,29.763049,-82.414491,UF,unknown
 dauxxx-win-lap,29.649895,-82.344979,Dauer Hall,academic
 dau,29.649895,-82.344979,Dauer Hall,academic
 dinefreshfood-win-lap,29.647025,-82.341302,Fresh Food,social
 dinefreshfood,29.647025,-82.341302,Fresh Food,social
-ecob,29.672054,-82.299507,East Campus Office,admin
 edb,29.641637,-82.348364,Engineering Design Building,academic
 ehs,29.64353,-82.343826,Env. Health and Safety EHS,unknown
 elm,29.643476,-82.366184,Elmore Hall,admin
@@ -81,7 +76,6 @@ flg,29.649463,-82.347294,Florida Gym,sports
 fli,29.651575,-82.34385,Keene-Flint Hall,academic
 flih,29.649981,-82.332703,Innovation Hub,academic
 flo,29.650131,-82.343723,Griffin-Floyd Hall,academic
-flrec,26.083771,-80.238007,FLREC Geomatics,academic
 fpof,29.65047,-82.347275,Florida Pool Offices/Lockers,sports
 fsf-win-lap,29.648006,-82.350075,Gator Corner Dining Center,social
 fsf,29.648006,-82.350075,Gator Corner Dining Center,social
@@ -143,10 +137,6 @@ nzh,29.645392,-82.345778,Newins-Ziegler Hall,academic
 nzhB,29.645392,-82.345778,Newins-Ziegler Hall,academic
 ohl1,29.639754,-82.358956,Ornamental Hort Laboratory 1,academic
 ohl2,29.639824,-82.358554,Ornamental Hort Laboratory 2,academic
-osbs-win-lap,29.672632,-82.032595,Ordway-Swisher Biological Station,academic
-osbs-xxx-win-lap,29.672632,-82.032595,Ordway-Swisher Biological Station,academic
-osbs,29.672632,-82.032595,Ordway-Swisher Biological Station,academic
-osbstr,29.672632,-82.032595,Ordway-Swisher Biological Station,academic
 pcpa,29.635312,-82.369309,Phillips Center,social
 pdc,29.642948,-82.369274,Physical Plant Central Stores,academic
 phl,29.644585,-82.34878,Phelps Lab,academic
@@ -189,8 +179,6 @@ stzWlkwy,29.650976,-82.340971,# Stuzin Hall Walk Way,unknown
 swc,29.638378,-82.368414,SW Recreation Center,sports
 tge,29.639601,-82.360412,Turfgrass Envirotron,academic
 tig,29.649397,-82.339815,Tigert Hall,admin
-treeo-win-lap,29.619974,-82.414165,Treeo Center,academic
-treeo,29.619974,-82.414165,Treeo Center,academic
 tur,29.649333,-82.343903,Turlington Hall,academic
 turl,29.649333,-82.343903,Turlington Hall,academic
 urbe,29.633778,-82.366198,Urban Entomology,academic
